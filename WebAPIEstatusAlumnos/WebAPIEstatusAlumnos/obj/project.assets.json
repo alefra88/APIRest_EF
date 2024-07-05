@@ -2068,11 +2068,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tichs\\Desktop\\bootcamp-AEOG\\CSHARP\\WebAPIEstatusAlumnos\\WebAPIEstatusAlumnos\\WebAPIEstatusAlumnos.csproj",
+      "projectUniqueName": "C:\\Users\\Tichs\\Desktop\\bootcamp-AEOG\\CSHARP\\APIRest_EF\\WebAPIEstatusAlumnos\\WebAPIEstatusAlumnos\\WebAPIEstatusAlumnos.csproj",
       "projectName": "WebAPIEstatusAlumnos",
-      "projectPath": "C:\\Users\\Tichs\\Desktop\\bootcamp-AEOG\\CSHARP\\WebAPIEstatusAlumnos\\WebAPIEstatusAlumnos\\WebAPIEstatusAlumnos.csproj",
+      "projectPath": "C:\\Users\\Tichs\\Desktop\\bootcamp-AEOG\\CSHARP\\APIRest_EF\\WebAPIEstatusAlumnos\\WebAPIEstatusAlumnos\\WebAPIEstatusAlumnos.csproj",
       "packagesPath": "C:\\Users\\Tichs\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tichs\\Desktop\\bootcamp-AEOG\\CSHARP\\WebAPIEstatusAlumnos\\WebAPIEstatusAlumnos\\obj\\",
+      "outputPath": "C:\\Users\\Tichs\\Desktop\\bootcamp-AEOG\\CSHARP\\APIRest_EF\\WebAPIEstatusAlumnos\\WebAPIEstatusAlumnos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tichs\\AppData\\Roaming\\NuGet\\NuGet.Config",

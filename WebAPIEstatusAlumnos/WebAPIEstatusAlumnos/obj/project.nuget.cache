@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S6LcBFqIvZJrtAJWn7nndIwm5EXpG5Osmd7sxzN8kCE2oT0lH404HzDwC+cYJ4yuBSVEUkQnjQE1IrXWaAGJlg==",
+  "dgSpecHash": "PKDnILAW1XTfu9/nRvXT6Vmec+wpP4y4RSgOl68Xu0WrZBLlwFLYxo7EgnPiAM1KMGpp7EfR7KO4GgY6vLzzFQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tichs\\Desktop\\bootcamp-AEOG\\CSHARP\\WebAPIEstatusAlumnos\\WebAPIEstatusAlumnos\\WebAPIEstatusAlumnos.csproj",
+  "projectFilePath": "C:\\Users\\Tichs\\Desktop\\bootcamp-AEOG\\CSHARP\\APIRest_EF\\WebAPIEstatusAlumnos\\WebAPIEstatusAlumnos\\WebAPIEstatusAlumnos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tichs\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Tichs\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
